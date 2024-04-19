@@ -1,0 +1,361 @@
+Subject,TrialIdx,PeriodType,EncodingObjectPosition_X,EncodingObjectPosition_Y,EncodingPlayerStartingPosition_X,EncodingPlayerStartingPosition_Y,Object,Performance
+3,1.0,encoding,-2.2,8.3,-5.9,0.2,Cat,
+3,1.0,encoding,6.9,3.0,-5.9,0.2,Dog,
+3,1.0,egocentric retrieval,6.9,3.0,-5.9,0.2,Dog,0.0284149999999999
+3,1.0,egocentric retrieval,-2.2,8.3,-5.9,0.2,Cat,0.6991632999999999
+3,1.0,allocentric retrieval,-2.2,8.3,-5.9,0.2,Cat,0.97015903
+3,1.0,allocentric retrieval,6.9,3.0,-5.9,0.2,Dog,0.96777903
+3,2.0,encoding,-3.1,3.9,-7.5,-1.9,Camel,
+3,2.0,encoding,5.4,-3.3,-7.5,-1.9,Bird,
+3,2.0,allocentric retrieval,-3.1,3.9,-7.5,-1.9,Camel,0.8479231
+3,2.0,allocentric retrieval,5.4,-3.3,-7.5,-1.9,Bird,0.4302546
+3,2.0,egocentric retrieval,-3.1,3.9,-7.5,-1.9,Camel,0.7801282
+3,2.0,egocentric retrieval,5.4,-3.3,-7.5,-1.9,Bird,0.8228181999999999
+3,3.0,encoding,-8.6,-8.1,-3.4,-5.3,Pug,
+3,3.0,encoding,-0.4,1.0,-3.4,-5.3,Pig,
+3,3.0,egocentric retrieval,-0.4,1.0,-3.4,-5.3,Pig,0.95140105
+3,3.0,egocentric retrieval,-8.6,-8.1,-3.4,-5.3,Pug,0.93535907
+3,3.0,allocentric retrieval,-0.4,1.0,-3.4,-5.3,Pig,0.98488702
+3,3.0,allocentric retrieval,-8.6,-8.1,-3.4,-5.3,Pug,0.997118003
+3,4.0,encoding,-7.5,3.8,-7.7,9.0,Camel,
+3,4.0,encoding,-7.1,-7.5,-7.7,9.0,Pug,
+3,4.0,allocentric retrieval,-7.1,-7.5,-7.7,9.0,Pug,0.97392803
+3,4.0,allocentric retrieval,-7.5,3.8,-7.7,9.0,Camel,0.997066003
+3,4.0,egocentric retrieval,-7.1,-7.5,-7.7,9.0,Pug,0.92593707
+3,4.0,egocentric retrieval,-7.5,3.8,-7.7,9.0,Camel,0.95776204
+3,5.0,encoding,5.1,-1.6,-3.6,8.3,Bird,
+3,5.0,encoding,-6.5,3.5,-3.6,8.3,Pig,
+3,5.0,egocentric retrieval,5.1,-1.6,-3.6,8.3,Bird,0.5488834
+3,5.0,egocentric retrieval,-6.5,3.5,-3.6,8.3,Pig,0.7929082000000001
+3,5.0,allocentric retrieval,-6.5,3.5,-3.6,8.3,Pig,0.96817103
+3,5.0,allocentric retrieval,5.1,-1.6,-3.6,8.3,Bird,0.8444162
+3,6.0,encoding,0.3,-8.0,4.0,-1.6,Dog,
+3,6.0,encoding,-3.7,6.8,4.0,-1.6,Cat,
+3,6.0,allocentric retrieval,0.3,-8.0,4.0,-1.6,Dog,0.8973491
+3,6.0,allocentric retrieval,-3.7,6.8,4.0,-1.6,Cat,0.95485704
+3,6.0,egocentric retrieval,0.3,-8.0,4.0,-1.6,Dog,0.3093147
+3,6.0,egocentric retrieval,-3.7,6.8,4.0,-1.6,Cat,0.4017446
+3,7.0,encoding,4.5,-3.0,-8.3,-8.1,Bird,
+3,7.0,encoding,-8.0,2.7,-8.3,-8.1,Dog,
+3,7.0,egocentric retrieval,-8.0,2.7,-8.3,-8.1,Dog,0.7237952999999999
+3,7.0,egocentric retrieval,4.5,-3.0,-8.3,-8.1,Bird,0.6481504
+3,7.0,allocentric retrieval,4.5,-3.0,-8.3,-8.1,Bird,0.2055177999999999
+3,7.0,allocentric retrieval,-8.0,2.7,-8.3,-8.1,Dog,0.95575104
+3,8.0,encoding,7.5,-3.3,-8.2,-8.2,Camel,
+3,8.0,encoding,-3.4,6.6,-8.2,-8.2,Cat,
+3,8.0,allocentric retrieval,-3.4,6.6,-8.2,-8.2,Cat,0.94393406
+3,8.0,allocentric retrieval,7.5,-3.3,-8.2,-8.2,Camel,0.8336942
+3,8.0,egocentric retrieval,7.5,-3.3,-8.2,-8.2,Camel,0.98393602
+3,8.0,egocentric retrieval,-3.4,6.6,-8.2,-8.2,Cat,0.6443104
+3,9.0,encoding,-8.1,-9.2,8.0,-1.6,Pug,
+3,9.0,encoding,-7.4,5.9,8.0,-1.6,Pig,
+3,9.0,egocentric retrieval,-8.1,-9.2,8.0,-1.6,Pug,0.992181008
+3,9.0,egocentric retrieval,-7.4,5.9,8.0,-1.6,Pig,0.994497005
+3,9.0,allocentric retrieval,-8.1,-9.2,8.0,-1.6,Pug,0.9991140009
+3,9.0,allocentric retrieval,-7.4,5.9,8.0,-1.6,Pig,0.93984806
+3,10.0,encoding,-5.7,5.9,5.0,7.0,Pig,
+3,10.0,encoding,4.9,-1.6,5.0,7.0,Bird,
+3,10.0,allocentric retrieval,-5.7,5.9,5.0,7.0,Pig,0.96167704
+3,10.0,allocentric retrieval,4.9,-1.6,5.0,7.0,Bird,0.8858831
+3,10.0,egocentric retrieval,4.9,-1.6,5.0,7.0,Bird,0.1167939
+3,10.0,egocentric retrieval,-5.7,5.9,5.0,7.0,Pig,0.7595772000000001
+3,11.0,encoding,-3.1,7.6,-4.4,2.3,Cat,
+3,11.0,encoding,-1.4,-3.6,-4.4,2.3,Camel,
+3,11.0,egocentric retrieval,-1.4,-3.6,-4.4,2.3,Camel,0.991173008
+3,11.0,egocentric retrieval,-3.1,7.6,-4.4,2.3,Cat,0.3808276
+3,11.0,allocentric retrieval,-3.1,7.6,-4.4,2.3,Cat,0.2526146999999999
+3,11.0,allocentric retrieval,-1.4,-3.6,-4.4,2.3,Camel,0.91527309
+3,12.0,encoding,1.1,6.1,8.2,1.4,Dog,
+3,12.0,encoding,-7.6,-7.4,8.2,1.4,Pug,
+3,12.0,allocentric retrieval,1.1,6.1,8.2,1.4,Dog,0.96617004
+3,12.0,allocentric retrieval,-7.6,-7.4,8.2,1.4,Pug,0.98044802
+3,12.0,egocentric retrieval,-7.6,-7.4,8.2,1.4,Pug,0.8284852
+3,12.0,egocentric retrieval,1.1,6.1,8.2,1.4,Dog,0.8796151
+3,13.0,encoding,-2.5,8.0,4.0,-6.9,Cat,
+3,13.0,encoding,-1.1,-7.2,4.0,-6.9,Pig,
+3,13.0,egocentric retrieval,-1.1,-7.2,4.0,-6.9,Pig,0.92521208
+3,13.0,egocentric retrieval,-2.5,8.0,4.0,-6.9,Cat,0.96058704
+3,13.0,allocentric retrieval,-2.5,8.0,4.0,-6.9,Cat,0.6799683000000001
+3,13.0,allocentric retrieval,-1.1,-7.2,4.0,-6.9,Pig,0.94750905
+3,14.0,encoding,-7.2,-0.3,-1.7,-2.6,Camel,
+3,14.0,encoding,4.5,-1.7,-1.7,-2.6,Bird,
+3,14.0,allocentric retrieval,4.5,-1.7,-1.7,-2.6,Bird,0.992290008
+3,14.0,allocentric retrieval,-7.2,-0.3,-1.7,-2.6,Camel,0.93414506
+3,14.0,egocentric retrieval,-7.2,-0.3,-1.7,-2.6,Camel,0.8106561999999999
+3,14.0,egocentric retrieval,4.5,-1.7,-1.7,-2.6,Bird,0.97411503
+3,15.0,encoding,-8.4,-8.4,5.1,-6.5,Pug,
+3,15.0,encoding,1.8,8.2,5.1,-6.5,Dog,
+3,15.0,egocentric retrieval,1.8,8.2,5.1,-6.5,Dog,0.91009609
+3,15.0,egocentric retrieval,-8.4,-8.4,5.1,-6.5,Pug,0.8679491
+3,15.0,allocentric retrieval,1.8,8.2,5.1,-6.5,Dog,0.995964004
+3,15.0,allocentric retrieval,-8.4,-8.4,5.1,-6.5,Pug,0.9993030007
+3,16.0,encoding,6.0,0.0,2.5,7.8,Dog,
+3,16.0,encoding,-2.5,7.1,2.5,7.8,Cat,
+3,16.0,allocentric retrieval,-2.5,7.1,2.5,7.8,Cat,0.96096004
+3,16.0,allocentric retrieval,6.0,0.0,2.5,7.8,Dog,0.92967907
+3,16.0,egocentric retrieval,-2.5,7.1,2.5,7.8,Cat,0.99001501
+3,16.0,egocentric retrieval,6.0,0.0,2.5,7.8,Dog,0.97816502
+3,17.0,encoding,5.6,-1.8,7.0,7.0,Bird,
+3,17.0,encoding,-7.1,-3.6,7.0,7.0,Camel,
+3,17.0,egocentric retrieval,-7.1,-3.6,7.0,7.0,Camel,0.8541662
+3,17.0,egocentric retrieval,5.6,-1.8,7.0,7.0,Bird,0.93343306
+3,17.0,allocentric retrieval,-7.1,-3.6,7.0,7.0,Camel,0.2027128
+3,17.0,allocentric retrieval,5.6,-1.8,7.0,7.0,Bird,0.2454988
+3,18.0,encoding,3.4,0.0,-3.1,-6.2,Pig,
+3,18.0,encoding,-8.5,-8.8,-3.1,-6.2,Pug,
+3,18.0,allocentric retrieval,3.4,0.0,-3.1,-6.2,Pig,0.94295706
+3,18.0,allocentric retrieval,-8.5,-8.8,-3.1,-6.2,Pug,0.97998102
+3,18.0,egocentric retrieval,-8.5,-8.8,-3.1,-6.2,Pug,0.7958972
+3,18.0,egocentric retrieval,3.4,0.0,-3.1,-6.2,Pig,0.91898408
+3,19.0,encoding,-8.7,-7.5,8.2,-6.1,Pug,
+3,19.0,encoding,1.4,2.1,8.2,-6.1,Camel,
+3,19.0,egocentric retrieval,1.4,2.1,8.2,-6.1,Camel,0.8563481
+3,19.0,egocentric retrieval,-8.7,-7.5,8.2,-6.1,Pug,0.9002851000000001
+3,19.0,allocentric retrieval,1.4,2.1,8.2,-6.1,Camel,0.91759108
+3,19.0,allocentric retrieval,-8.7,-7.5,8.2,-6.1,Pug,0.95248405
+3,20.0,encoding,-2.7,-3.0,-8.2,4.0,Pig,
+3,20.0,encoding,-3.3,7.2,-8.2,4.0,Cat,
+3,20.0,allocentric retrieval,-2.7,-3.0,-8.2,4.0,Pig,0.8814661
+3,20.0,allocentric retrieval,-3.3,7.2,-8.2,4.0,Cat,0.91412608
+3,20.0,egocentric retrieval,-2.7,-3.0,-8.2,4.0,Pig,0.93211406
+3,20.0,egocentric retrieval,-3.3,7.2,-8.2,4.0,Cat,0.97981202
+3,21.0,encoding,4.3,-3.2,2.2,6.4,Bird,
+3,21.0,encoding,-6.4,-6.7,2.2,6.4,Dog,
+3,21.0,egocentric retrieval,-6.4,-6.7,2.2,6.4,Dog,0.7236673
+3,21.0,egocentric retrieval,4.3,-3.2,2.2,6.4,Bird,0.93706106
+3,21.0,allocentric retrieval,4.3,-3.2,2.2,6.4,Bird,0.98794301
+3,21.0,allocentric retrieval,-6.4,-6.7,2.2,6.4,Dog,0.8855561
+3,22.0,encoding,5.7,1.2,-8.4,0.4,Dog,
+3,22.0,encoding,-3.1,6.9,-8.4,0.4,Cat,
+3,22.0,allocentric retrieval,-3.1,6.9,-8.4,0.4,Cat,0.96064604
+3,22.0,allocentric retrieval,5.7,1.2,-8.4,0.4,Dog,0.7265183
+3,22.0,egocentric retrieval,5.7,1.2,-8.4,0.4,Dog,0.92714407
+3,22.0,egocentric retrieval,-3.1,6.9,-8.4,0.4,Cat,0.6702853
+3,23.0,encoding,-7.7,-8.8,-1.0,8.7,Pug,
+3,23.0,encoding,0.7,-1.0,-1.0,8.7,Camel,
+3,23.0,egocentric retrieval,0.7,-1.0,-1.0,8.7,Camel,0.8824561
+3,23.0,egocentric retrieval,-7.7,-8.8,-1.0,8.7,Pug,0.8434062
+3,23.0,allocentric retrieval,0.7,-1.0,-1.0,8.7,Camel,0.2618347
+3,23.0,allocentric retrieval,-7.7,-8.8,-1.0,8.7,Pug,0.96684903
+3,24.0,encoding,-4.6,5.8,-2.5,-7.2,Pig,
+3,24.0,encoding,4.8,-1.6,-2.5,-7.2,Bird,
+3,24.0,allocentric retrieval,4.8,-1.6,-2.5,-7.2,Bird,0.96827303
+3,24.0,allocentric retrieval,-4.6,5.8,-2.5,-7.2,Pig,0.94926805
+3,24.0,egocentric retrieval,-4.6,5.8,-2.5,-7.2,Pig,0.992853007
+3,24.0,egocentric retrieval,4.8,-1.6,-2.5,-7.2,Bird,0.92357507
+3,25.0,encoding,-8.1,-7.3,8.5,-0.7,Pug,
+3,25.0,encoding,-3.9,2.3,8.5,-0.7,Dog,
+3,25.0,egocentric retrieval,-8.1,-7.3,8.5,-0.7,Pug,0.8786221
+3,25.0,egocentric retrieval,-3.9,2.3,8.5,-0.7,Dog,0.98101802
+3,25.0,allocentric retrieval,-3.9,2.3,8.5,-0.7,Dog,0.7737902
+3,25.0,allocentric retrieval,-8.1,-7.3,8.5,-0.7,Pug,0.96076904
+3,26.0,encoding,-2.7,-6.3,-0.3,0.5,Camel,
+3,26.0,encoding,-3.9,7.5,-0.3,0.5,Cat,
+3,26.0,allocentric retrieval,-3.9,7.5,-0.3,0.5,Cat,0.94479306
+3,26.0,allocentric retrieval,-2.7,-6.3,-0.3,0.5,Camel,0.95285205
+3,26.0,egocentric retrieval,-3.9,7.5,-0.3,0.5,Cat,0.3795115999999999
+3,26.0,egocentric retrieval,-2.7,-6.3,-0.3,0.5,Camel,0.92795907
+3,27.0,encoding,5.0,-1.6,2.7,-7.7,Bird,
+3,27.0,encoding,-5.5,3.1,2.7,-7.7,Pig,
+3,27.0,egocentric retrieval,5.0,-1.6,2.7,-7.7,Bird,0.996884003
+3,27.0,egocentric retrieval,-5.5,3.1,2.7,-7.7,Pig,0.8417942
+3,27.0,allocentric retrieval,-5.5,3.1,2.7,-7.7,Pig,0.95836404
+3,27.0,allocentric retrieval,5.0,-1.6,2.7,-7.7,Bird,0.91913608
+3,28.0,encoding,-0.2,8.2,-2.4,-8.6,Dog,
+3,28.0,encoding,5.6,-2.5,-2.4,-8.6,Bird,
+3,28.0,allocentric retrieval,-0.2,8.2,-2.4,-8.6,Dog,0.0939478999999999
+3,28.0,allocentric retrieval,5.6,-2.5,-2.4,-8.6,Bird,0.8853991
+3,28.0,egocentric retrieval,-0.2,8.2,-2.4,-8.6,Dog,0.93229407
+3,28.0,egocentric retrieval,5.6,-2.5,-2.4,-8.6,Bird,0.93471207
+3,29.0,encoding,-2.5,8.4,7.8,3.8,Cat,
+3,29.0,encoding,-1.2,-1.9,7.8,3.8,Pig,
+3,29.0,egocentric retrieval,-1.2,-1.9,7.8,3.8,Pig,0.6579444
+3,29.0,egocentric retrieval,-2.5,8.4,7.8,3.8,Cat,0.2490097
+3,29.0,allocentric retrieval,-2.5,8.4,7.8,3.8,Cat,0.1976187999999999
+3,29.0,allocentric retrieval,-1.2,-1.9,7.8,3.8,Pig,0.8038922
+3,30.0,encoding,-3.6,5.3,-2.8,-0.9,Camel,
+3,30.0,encoding,-7.3,-7.3,-2.8,-0.9,Pug,
+3,30.0,allocentric retrieval,-7.3,-7.3,-2.8,-0.9,Pug,0.96907503
+3,30.0,allocentric retrieval,-3.6,5.3,-2.8,-0.9,Camel,0.90905509
+3,30.0,egocentric retrieval,-3.6,5.3,-2.8,-0.9,Camel,0.8174132000000001
+3,30.0,egocentric retrieval,-7.3,-7.3,-2.8,-0.9,Pug,0.1662038999999999
+3,31.0,encoding,-2.1,7.4,6.9,5.4,Cat,
+3,31.0,encoding,6.7,-2.2,6.9,5.4,Camel,
+3,31.0,egocentric retrieval,6.7,-2.2,6.9,5.4,Camel,0.8586611
+3,31.0,egocentric retrieval,-2.1,7.4,6.9,5.4,Cat,0.998524001
+3,31.0,allocentric retrieval,6.7,-2.2,6.9,5.4,Camel,0.4697685
+3,31.0,allocentric retrieval,-2.1,7.4,6.9,5.4,Cat,0.7373722
+3,32.0,encoding,-0.3,6.9,0.3,0.3,Pig,
+3,32.0,encoding,5.1,-3.1,0.3,0.3,Bird,
+3,32.0,allocentric retrieval,5.1,-3.1,0.3,0.3,Bird,0.98214302
+3,32.0,allocentric retrieval,-0.3,6.9,0.3,0.3,Pig,0.97753402
+3,32.0,egocentric retrieval,-0.3,6.9,0.3,0.3,Pig,0.92509507
+3,32.0,egocentric retrieval,5.1,-3.1,0.3,0.3,Bird,0.92810907
+3,33.0,encoding,-7.9,-7.5,-5.8,-2.3,Pug,
+3,33.0,encoding,7.8,6.6,-5.8,-2.3,Dog,
+3,33.0,egocentric retrieval,-7.9,-7.5,-5.8,-2.3,Pug,0.97476402
+3,33.0,egocentric retrieval,7.8,6.6,-5.8,-2.3,Dog,0.7974432
+3,33.0,allocentric retrieval,-7.9,-7.5,-5.8,-2.3,Pug,0.96966703
+3,33.0,allocentric retrieval,7.8,6.6,-5.8,-2.3,Dog,0.98304802
+3,34.0,encoding,5.7,6.8,-8.8,1.0,Dog,
+3,34.0,encoding,-7.7,-8.7,-8.8,1.0,Pug,
+3,34.0,allocentric retrieval,-7.7,-8.7,-8.8,1.0,Pug,0.98655201
+3,34.0,allocentric retrieval,5.7,6.8,-8.8,1.0,Dog,0.96606303
+3,34.0,egocentric retrieval,5.7,6.8,-8.8,1.0,Dog,0.93793306
+3,34.0,egocentric retrieval,-7.7,-8.7,-8.8,1.0,Pug,0.5856524000000001
+3,35.0,encoding,4.0,-3.0,-7.3,6.5,Bird,
+3,35.0,encoding,-7.4,-2.1,-7.3,6.5,Camel,
+3,35.0,egocentric retrieval,-7.4,-2.1,-7.3,6.5,Camel,0.998860001
+3,35.0,egocentric retrieval,4.0,-3.0,-7.3,6.5,Bird,0.96766703
+3,35.0,allocentric retrieval,-7.4,-2.1,-7.3,6.5,Camel,0.8472980999999999
+3,35.0,allocentric retrieval,4.0,-3.0,-7.3,6.5,Bird,0.91677009
+3,36.0,encoding,-4.2,-8.4,5.5,7.7,Pig,
+3,36.0,encoding,-3.8,6.9,5.5,7.7,Cat,
+3,36.0,allocentric retrieval,-4.2,-8.4,5.5,7.7,Pig,0.96798303
+3,36.0,allocentric retrieval,-3.8,6.9,5.5,7.7,Cat,0.97952402
+3,36.0,egocentric retrieval,-3.8,6.9,5.5,7.7,Cat,0.97225903
+3,36.0,egocentric retrieval,-4.2,-8.4,5.5,7.7,Pig,0.996433004
+3,37.0,encoding,4.6,-3.4,-7.2,-3.5,Bird,
+3,37.0,encoding,-1.0,6.0,-7.2,-3.5,Pig,
+3,37.0,egocentric retrieval,4.6,-3.4,-7.2,-3.5,Bird,0.8834411
+3,37.0,egocentric retrieval,-1.0,6.0,-7.2,-3.5,Pig,0.94185406
+3,37.0,allocentric retrieval,-1.0,6.0,-7.2,-3.5,Pig,0.98954801
+3,37.0,allocentric retrieval,4.6,-3.4,-7.2,-3.5,Bird,0.92602907
+3,38.0,encoding,7.4,-6.2,-7.0,1.8,Camel,
+3,38.0,encoding,-2.3,7.2,-7.0,1.8,Cat,
+3,38.0,allocentric retrieval,7.4,-6.2,-7.0,1.8,Camel,0.97694602
+3,38.0,allocentric retrieval,-2.3,7.2,-7.0,1.8,Cat,0.7099023
+3,38.0,egocentric retrieval,-2.3,7.2,-7.0,1.8,Cat,0.3028297
+3,38.0,egocentric retrieval,7.4,-6.2,-7.0,1.8,Camel,0.2882477
+3,39.0,encoding,-7.7,-8.0,-0.9,-5.5,Pug,
+3,39.0,encoding,5.4,-7.8,-0.9,-5.5,Dog,
+3,39.0,egocentric retrieval,-7.7,-8.0,-0.9,-5.5,Pug,0.95184005
+3,39.0,egocentric retrieval,5.4,-7.8,-0.9,-5.5,Dog,0.8816691
+3,39.0,allocentric retrieval,-7.7,-8.0,-0.9,-5.5,Pug,0.997287003
+3,39.0,allocentric retrieval,5.4,-7.8,-0.9,-5.5,Dog,0.96719503
+3,40.0,encoding,-5.5,-7.8,3.6,6.0,Camel,
+3,40.0,encoding,4.1,-3.3,3.6,6.0,Bird,
+3,40.0,allocentric retrieval,4.1,-3.3,3.6,6.0,Bird,0.8971071
+3,40.0,allocentric retrieval,-5.5,-7.8,3.6,6.0,Camel,0.8684771
+3,40.0,egocentric retrieval,4.1,-3.3,3.6,6.0,Bird,0.4510465
+3,40.0,egocentric retrieval,-5.5,-7.8,3.6,6.0,Camel,0.4886475
+3,41.0,encoding,-8.5,-7.3,-3.7,5.7,Pug,
+3,41.0,encoding,-8.5,8.1,-3.7,5.7,Dog,
+3,41.0,egocentric retrieval,-8.5,8.1,-3.7,5.7,Dog,0.6762503
+3,41.0,egocentric retrieval,-8.5,-7.3,-3.7,5.7,Pug,0.5753074
+3,41.0,allocentric retrieval,-8.5,8.1,-3.7,5.7,Dog,0.96404304
+3,41.0,allocentric retrieval,-8.5,-7.3,-3.7,5.7,Pug,0.97648402
+3,42.0,encoding,8.5,0.9,2.3,0.3,Pig,
+3,42.0,encoding,-3.8,7.2,2.3,0.3,Cat,
+3,42.0,allocentric retrieval,8.5,0.9,2.3,0.3,Pig,0.93149307
+3,42.0,allocentric retrieval,-3.8,7.2,2.3,0.3,Cat,0.990900009
+3,42.0,egocentric retrieval,8.5,0.9,2.3,0.3,Pig,0.4481195999999999
+3,42.0,egocentric retrieval,-3.8,7.2,2.3,0.3,Cat,0.4333236
+3,43.0,encoding,-7.1,-8.1,8.3,-5.9,Pug,
+3,43.0,encoding,1.4,3.8,8.3,-5.9,Dog,
+3,43.0,egocentric retrieval,-7.1,-8.1,8.3,-5.9,Pug,0.97949702
+3,43.0,egocentric retrieval,1.4,3.8,8.3,-5.9,Dog,0.6773193
+3,43.0,allocentric retrieval,-7.1,-8.1,8.3,-5.9,Pug,0.98794101
+3,43.0,allocentric retrieval,1.4,3.8,8.3,-5.9,Dog,0.8827541
+3,44.0,encoding,8.1,-1.1,-4.5,2.5,Pig,
+3,44.0,encoding,-4.0,8.2,-4.5,2.5,Cat,
+3,44.0,allocentric retrieval,-4.0,8.2,-4.5,2.5,Cat,0.998037002
+3,44.0,allocentric retrieval,8.1,-1.1,-4.5,2.5,Pig,0.9996980003
+3,44.0,egocentric retrieval,-4.0,8.2,-4.5,2.5,Cat,0.6600593
+3,44.0,egocentric retrieval,8.1,-1.1,-4.5,2.5,Pig,0.8764681
+3,45.0,encoding,4.6,-3.1,-5.7,-6.3,Bird,
+3,45.0,encoding,-7.2,8.1,-5.7,-6.3,Camel,
+3,45.0,egocentric retrieval,-7.2,8.1,-5.7,-6.3,Camel,0.1753968
+3,45.0,egocentric retrieval,4.6,-3.1,-5.7,-6.3,Bird,0.3393326
+3,45.0,allocentric retrieval,4.6,-3.1,-5.7,-6.3,Bird,0.96032504
+3,45.0,allocentric retrieval,-7.2,8.1,-5.7,-6.3,Camel,0.98083102
+3,46.0,encoding,-6.8,-5.7,8.0,7.0,Dog,
+3,46.0,encoding,4.5,-2.3,8.0,7.0,Bird,
+3,46.0,allocentric retrieval,-6.8,-5.7,8.0,7.0,Dog,0.96632203
+3,46.0,allocentric retrieval,4.5,-2.3,8.0,7.0,Bird,0.98495101
+3,46.0,egocentric retrieval,4.5,-2.3,8.0,7.0,Bird,0.8843731
+3,46.0,egocentric retrieval,-6.8,-5.7,8.0,7.0,Dog,0.7066143
+3,47.0,encoding,-8.7,-7.9,0.5,-0.2,Pug,
+3,47.0,encoding,8.3,-4.1,0.5,-0.2,Pig,
+3,47.0,egocentric retrieval,-8.7,-7.9,0.5,-0.2,Pug,0.97314003
+3,47.0,egocentric retrieval,8.3,-4.1,0.5,-0.2,Pig,0.92827807
+3,47.0,allocentric retrieval,8.3,-4.1,0.5,-0.2,Pig,0.93319806
+3,47.0,allocentric retrieval,-8.7,-7.9,0.5,-0.2,Pug,0.98465302
+3,48.0,encoding,4.2,-7.1,-8.3,-8.4,Camel,
+3,48.0,encoding,-2.8,6.9,-8.3,-8.4,Cat,
+3,48.0,allocentric retrieval,-2.8,6.9,-8.3,-8.4,Cat,0.96474903
+3,48.0,allocentric retrieval,4.2,-7.1,-8.3,-8.4,Camel,0.8665531
+3,48.0,egocentric retrieval,-2.8,6.9,-8.3,-8.4,Cat,0.7275123
+3,48.0,egocentric retrieval,4.2,-7.1,-8.3,-8.4,Camel,0.7358523
+3,49.0,encoding,-3.2,6.8,-6.2,-1.8,Cat,
+3,49.0,encoding,-3.0,-7.3,-6.2,-1.8,Pig,
+3,49.0,egocentric retrieval,-3.0,-7.3,-6.2,-1.8,Pig,0.8490292
+3,49.0,egocentric retrieval,-3.2,6.8,-6.2,-1.8,Cat,0.4833225
+3,49.0,allocentric retrieval,-3.2,6.8,-6.2,-1.8,Cat,0.5968494
+3,49.0,allocentric retrieval,-3.0,-7.3,-6.2,-1.8,Pig,0.5918854
+3,50.0,encoding,6.9,8.4,-1.4,4.9,Dog,
+3,50.0,encoding,3.8,-2.3,-1.4,4.9,Bird,
+3,50.0,allocentric retrieval,6.9,8.4,-1.4,4.9,Dog,0.90850209
+3,50.0,allocentric retrieval,3.8,-2.3,-1.4,4.9,Bird,0.98158402
+3,50.0,egocentric retrieval,3.8,-2.3,-1.4,4.9,Bird,0.97878802
+3,50.0,egocentric retrieval,6.9,8.4,-1.4,4.9,Dog,0.92486408
+3,51.0,encoding,-7.9,-7.5,-8.4,2.0,Pug,
+3,51.0,encoding,3.4,4.4,-8.4,2.0,Camel,
+3,51.0,egocentric retrieval,-7.9,-7.5,-8.4,2.0,Pug,0.8146122
+3,51.0,egocentric retrieval,3.4,4.4,-8.4,2.0,Camel,0.8894051000000001
+3,51.0,allocentric retrieval,-7.9,-7.5,-8.4,2.0,Pug,0.96130004
+3,51.0,allocentric retrieval,3.4,4.4,-8.4,2.0,Camel,0.93095007
+3,52.0,encoding,1.7,-6.2,4.3,7.0,Pig,
+3,52.0,encoding,-3.6,7.3,4.3,7.0,Cat,
+3,52.0,allocentric retrieval,-3.6,7.3,4.3,7.0,Cat,0.98241902
+3,52.0,allocentric retrieval,1.7,-6.2,4.3,7.0,Pig,0.8656251
+3,52.0,egocentric retrieval,1.7,-6.2,4.3,7.0,Pig,0.8830681
+3,52.0,egocentric retrieval,-3.6,7.3,4.3,7.0,Cat,0.90905809
+3,53.0,encoding,-7.5,-9.1,5.0,2.5,Pug,
+3,53.0,encoding,-3.8,0.6,5.0,2.5,Camel,
+3,53.0,egocentric retrieval,-7.5,-9.1,5.0,2.5,Pug,0.996682003
+3,53.0,egocentric retrieval,-3.8,0.6,5.0,2.5,Camel,0.8575851
+3,53.0,allocentric retrieval,-3.8,0.6,5.0,2.5,Camel,0.994284006
+3,53.0,allocentric retrieval,-7.5,-9.1,5.0,2.5,Pug,0.994499005
+3,54.0,encoding,-2.4,5.6,-7.8,-1.3,Dog,
+3,54.0,encoding,4.5,-2.1,-7.8,-1.3,Bird,
+3,54.0,allocentric retrieval,-2.4,5.6,-7.8,-1.3,Dog,0.97804702
+3,54.0,allocentric retrieval,4.5,-2.1,-7.8,-1.3,Bird,0.991943008
+3,54.0,egocentric retrieval,-2.4,5.6,-7.8,-1.3,Dog,0.996277004
+3,54.0,egocentric retrieval,4.5,-2.1,-7.8,-1.3,Bird,0.8810561
+3,55.0,encoding,-8.3,-8.5,2.0,-5.7,Pug,
+3,55.0,encoding,-4.9,4.4,2.0,-5.7,Pig,
+3,55.0,egocentric retrieval,-8.3,-8.5,2.0,-5.7,Pug,0.96848003
+3,55.0,egocentric retrieval,-4.9,4.4,2.0,-5.7,Pig,0.8087032000000001
+3,55.0,allocentric retrieval,-8.3,-8.5,2.0,-5.7,Pug,0.993372007
+3,55.0,allocentric retrieval,-4.9,4.4,2.0,-5.7,Pig,0.994735005
+3,56.0,encoding,0.3,-4.5,8.0,-4.0,Camel,
+3,56.0,encoding,-2.9,7.2,8.0,-4.0,Cat,
+3,56.0,allocentric retrieval,0.3,-4.5,8.0,-4.0,Camel,0.8774111
+3,56.0,allocentric retrieval,-2.9,7.2,8.0,-4.0,Cat,0.98538301
+3,56.0,egocentric retrieval,0.3,-4.5,8.0,-4.0,Camel,0.95391705
+3,56.0,egocentric retrieval,-2.9,7.2,8.0,-4.0,Cat,0.7470091999999999
+3,57.0,encoding,5.5,-1.8,-3.5,8.8,Bird,
+3,57.0,encoding,-8.4,0.7,-3.5,8.8,Dog,
+3,57.0,egocentric retrieval,5.5,-1.8,-3.5,8.8,Bird,0.6877812999999999
+3,57.0,egocentric retrieval,-8.4,0.7,-3.5,8.8,Dog,0.2622006999999999
+3,57.0,allocentric retrieval,5.5,-1.8,-3.5,8.8,Bird,0.99075201
+3,57.0,allocentric retrieval,-8.4,0.7,-3.5,8.8,Dog,0.95922204
+3,58.0,encoding,-6.5,0.6,-1.5,2.4,Dog,
+3,58.0,encoding,5.5,-2.6,-1.5,2.4,Bird,
+3,58.0,allocentric retrieval,5.5,-2.6,-1.5,2.4,Bird,0.98200702
+3,58.0,allocentric retrieval,-6.5,0.6,-1.5,2.4,Dog,0.997979002
+3,58.0,egocentric retrieval,-6.5,0.6,-1.5,2.4,Dog,0.97281903
+3,58.0,egocentric retrieval,5.5,-2.6,-1.5,2.4,Bird,0.7073653
+3,59.0,encoding,-8.4,-8.0,-2.7,6.2,Pug,
+3,59.0,encoding,2.0,0.1,-2.7,6.2,Camel,
+3,59.0,egocentric retrieval,2.0,0.1,-2.7,6.2,Camel,0.7751932
+3,59.0,egocentric retrieval,-8.4,-8.0,-2.7,6.2,Pug,0.3376365999999999
+3,59.0,allocentric retrieval,-8.4,-8.0,-2.7,6.2,Pug,0.994476005
+3,59.0,allocentric retrieval,2.0,0.1,-2.7,6.2,Camel,0.8581601
+3,60.0,encoding,-7.6,-5.0,-0.2,0.4,Pig,
+3,60.0,encoding,-3.2,7.4,-0.2,0.4,Cat,
+3,60.0,allocentric retrieval,-3.2,7.4,-0.2,0.4,Cat,0.96506704
+3,60.0,allocentric retrieval,-7.6,-5.0,-0.2,0.4,Pig,0.98511801
+3,60.0,egocentric retrieval,-7.6,-5.0,-0.2,0.4,Pig,0.92772007
+3,60.0,egocentric retrieval,-3.2,7.4,-0.2,0.4,Cat,0.96004804
